@@ -1,0 +1,93 @@
+body{
+    background:efefef;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 28px;
+    color: blue;
+}
+h2{
+    font-size: 22px;
+    color: black;
+}
+
+h3{
+    font-size: 15px;
+    color: rgb(42, 128, 241);
+}
+p{
+    color: rgb(22, 113, 231);
+    font: bold;
+    float: inline-start;
+}
+
+a {    
+    content: icon;
+    background-color: rgb(245, 239, 231);
+    text-decoration: underline;
+}
+
+a:hover{
+    color: rgb(18, 238, 55);
+    text-decoration: rgb(37, 3, 3);
+}
+td, th {
+    border: 1px solid #000000;
+    padding: 0.5rem;
+  }
+  table{
+    border-style: collapse;
+}
+#testday2{
+    margin-inline-start: 25px;
+}
+#postpon{
+    font: italic;
+    color: rgb(18, 238, 55);
+    font-size: 26px;
+}
+.max{
+    font-size: 22px;
+    color: salmon;
+    font: message-box;
+}
+#themind{
+    color: green;
+}
+#medi{
+    font: bolder;
+    color: lawngreen;
+}
+#day3{
+    color: red;
+    margin-left: 25px;
+}
+#testday2{
+    font: italic;
+}
+form.formtest{
+    display: block;
+}
+div.formtest{
+    display: table-cell;
+}
+label{
+    display: -moz-box;
+    margin-bottom: 10px;
+}
+input{
+    display: inline;
+}
+.formbutton{
+    display: inline;
+}
+.continue{
+    margin-top: 10px;
+}
+.button{
+    background-color: lawngreen;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+    
+}
